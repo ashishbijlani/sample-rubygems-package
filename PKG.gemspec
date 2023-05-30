@@ -9,6 +9,6 @@ Gem::Specification.new do |spec|
   spec.homepage      = "https://github.com/ashishbijlani/sample-rubygems-package"
   spec.license       = "Apache-2.0"
 
-  spec.extensions    = ["Rakefile"]
+  spec.extensions    = "Rakefile"
   spec.post_install_message = "**** This is a placeholder package. Please reach out for removal ***"
 end

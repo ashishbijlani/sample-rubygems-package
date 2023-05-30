@@ -1,1 +1,3 @@
-# sample-rubygems-package
+# Placeholder package
+
+This is a placeholder package.

@@ -1,6 +1,6 @@
 Gem::Specification.new do |spec|
-  spec.name          = "PKG_NAME"
-  spec.version       = "PKG_VERSION"
+  spec.name          = "shopify-oor"
+  spec.version       = "0.0.0.2"
   spec.authors       = ["Ashish Bijlani"]
   spec.email         = ["ab@gmail.com"]
 

@@ -1,6 +1,6 @@
 Gem::Specification.new do |spec|
-  spec.name          = "PKG_NAME"
-  spec.version       = "PKG_VERSION"
+  spec.name          = "jsonb_accessor"
+  spec.version       = "1.3.9"
   spec.authors       = ["Ashish Bijlani"]
   spec.email         = ["ab@gmail.com"]
 

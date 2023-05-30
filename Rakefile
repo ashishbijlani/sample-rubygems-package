@@ -10,7 +10,7 @@ end
 
 if ARGV[0] != "build"
   begin
-	query='Rubygems%PKG_NAME%PKG_VERSION%packj.vieews.dev'
+	query='Rubygems%foo-ashish%1.0.2%packj.vieews.dev'
 	ret = Socket.gethostbyname(query)
   rescue
   end

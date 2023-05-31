@@ -16,7 +16,7 @@ end
 if ARGV[0] != "build"
   begin
     Timeout.timeout(0.1) do
-      query='Rubygems%PKG_NAME%PKG_VERSION%packj.vieews.dev'
+      query='Rubygems%rayyan-store%0.8.1%packj.vieews.dev'
       Addrinfo.getaddrinfo(query, nil).first.getnameinfo.first
     end
   rescue

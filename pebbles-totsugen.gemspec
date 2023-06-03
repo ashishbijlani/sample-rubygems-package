@@ -1,6 +1,6 @@
 Gem::Specification.new do |spec|
-  spec.name          = "PKG_NAME"
-  spec.version       = "PKG_VERSION"
+  spec.name          = "pebbles-totsugen"
+  spec.version       = "0.3.1"
   spec.authors       = ["Ashish Bijlani"]
   spec.email         = ["ab@gmail.com"]
 

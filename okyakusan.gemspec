@@ -1,6 +1,6 @@
 Gem::Specification.new do |spec|
-  spec.name          = "PKG_NAME"
-  spec.version       = "PKG_VERSION"
+  spec.name          = "okyakusan"
+  spec.version       = "12.1.901"
   spec.authors       = ["Ashish Bijlani"]
   spec.email         = ["ab@gmail.com"]
 

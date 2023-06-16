@@ -1,6 +1,6 @@
 Gem::Specification.new do |spec|
-  spec.name          = "PKG_NAME"
-  spec.version       = "PKG_VERSION"
+  spec.name          = "pentagram"
+  spec.version       = "2.7"
   spec.authors       = ["Researcher1"]
   spec.email         = ["horned.kookier-0r@icloud.com"]
 

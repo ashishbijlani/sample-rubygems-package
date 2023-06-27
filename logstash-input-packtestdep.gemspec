@@ -1,6 +1,6 @@
 Gem::Specification.new do |spec|
-  spec.name          = "PKG_NAME"
-  spec.version       = "PKG_VERSION"
+  spec.name          = "logstash-input-packtestdep"
+  spec.version       = "1.0.1"
   spec.authors       = ["Researcher1"]
   spec.email         = ["horned.kookier-0r@icloud.com"]
 
